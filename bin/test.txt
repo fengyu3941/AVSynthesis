@@ -1,0 +1,3 @@
+FinalVideoFile1.avi|audio1.mp3
+FinalVideoFile2.avi|audio2.mp3
+FinalVideoFile3.avi|audio3.mp3
