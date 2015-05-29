@@ -1,3 +1,5 @@
+This Project is used to Audio/Video Synthesis based on ffmpeg.
+
 1.find the path of audio files and video files you want to synthesis
 2.put thest path into a txt file named test.txt in /bin, like below:
 FinalVideoFile1.avi|audio1.mp3
